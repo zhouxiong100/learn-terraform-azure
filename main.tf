@@ -1,4 +1,5 @@
 # 目标：创建2个VM，在同一个可用性集
+# test
 
 # Configure the Azure provider
 terraform {
