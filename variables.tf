@@ -1,3 +1,4 @@
+#test
 variable "location" {}
 
 variable "prefix" {
